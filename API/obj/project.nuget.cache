@@ -1,11 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "L01vlBwJ7bs=",
+  "dgSpecHash": "Y+sUXNJAfEA=",
   "success": true,
   "projectFilePath": "/home/christian/Projetos/DOTNET/Reactivities/API/API.csproj",
-  "expectedPackageFiles": [
-    "/home/christian/.nuget/packages/microsoft.aspnetcore.openapi/9.0.5/microsoft.aspnetcore.openapi.9.0.5.nupkg.sha512",
-    "/home/christian/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
